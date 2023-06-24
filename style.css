@@ -24,3 +24,9 @@ img {
   display: flex;
   justify-content: center;
 }
+.see {
+  color: black;
+}
+.link {
+  color: blue;
+}
