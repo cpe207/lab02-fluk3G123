@@ -1,0 +1,16 @@
+h3 {
+  color: rgb(141, 141, 17);
+  font-style: italic;
+  text-align: center;
+}
+.skill-hearder {
+  text-align: left;
+}
+.skill-container {
+  border: solid lightcoral;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  margin-bottom: 8px;
+}
